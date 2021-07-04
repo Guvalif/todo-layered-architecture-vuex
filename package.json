@@ -1,0 +1,9 @@
+{
+  "name": "todo-layered-architecture-vuex",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Layered Architecture Reference Implementation Using Vuex",
+  "scripts": {},
+  "author": "Kazuyuki TAKASE (@Guvalif)",
+  "license": "MIT"
+}
